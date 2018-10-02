@@ -80,17 +80,17 @@
 
 		if(buttonName === 'combo1'){
 
-			poem = `${person} and a ${colour} ${animal} are ${action} ${locationSituation}, when suddenly, they are ${actionDoneToThem} by ${superHeroVillain} with an overly large ${foodAndDrink}`;
+			poem = `${superHeroVillain} and a ${colour} ${animal} are ${action} ${locationSituation}, when suddenly, they are ${actionDoneToThem} by ${person} wielding an overly large ${foodAndDrink}`;
 
 
 		}else if(buttonName === 'combo2'){
 
 			//poem = 'combo 2 poem';
-			poem = `It is ${weather}, but ${person} is ${action} with ${superHeroVillain}, and secretely wanting to be ${actionTwo} with ${superHeroVillainTwo}. Meanwhile, behind them a ${colour} ${animal} wearing ${accessory}, is shaking their ${bodyParts}`;
+			poem = `It is ${weather}, and ${person} is ${action} with ${superHeroVillain}, but secretely wanting to be ${actionTwo} with ${superHeroVillainTwo}. Meanwhile, behind them a ${colour} ${animal} wearing ${accessory}, is shaking their ${bodyParts}`;
 
 		}else if(buttonName === 'combo3'){
 
-			poem = `a ${colour} ${animal} in ${accessory} is ${action}, while not too far away ${person} is ${actionDoneToThem} by ${superHeroVillain} with ${object}`;
+			poem = `a ${colour} ${animal} in ${accessory} is ${action}, while not too far away ${person} is ${actionDoneToThem} by ${superHeroVillain} carrying ${object}`;
 
 		}
 		console.log(poem);

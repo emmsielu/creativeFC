@@ -37,6 +37,7 @@
 		"Toad",
 		"Impala",
 		"Dromedary",
+		"jelly fish",
 		"Red Panda"
 	],
 	"colours":[
@@ -153,7 +154,8 @@
 		"Cleaning the bathroom",
 		"Wondering where that came from",
 		"Grooving",
-		"Petting",
+		"making out",
+		"fucking",
 		"Sweeping the floor",
 		"Washing the windows",
 		"Rescuing a babe",
@@ -182,6 +184,7 @@
 	],
 	"locationsSituations":[
 		"On the beach",
+		"on the edge of a cliff",
 		"In a forest",
 		"Up the creek without a paddle",
 		"Up a tree",
@@ -275,9 +278,24 @@
 		"Flabberghasted"
 	],
 	"objects":[
-		"a cliff",
+		"a table",
+		"a chair",
 		"a box",
-		"the floor",
+		"three chocolates",
+		"a tennis racket",
+		"a ping pong ball",
+		"a wank mag",
+		"a unicycle",
+		"a tandem",
+		"a lampshade",
+		"a candlestick",
+		"a dagger",
+		"a broken clock",
+		"a mug",
+		"a dirty coaster",
+		"a board game",
+		"ten almonds",
+		"eleventy million empty plastic bottles",
 		"a bicycle"
 	]
 }
