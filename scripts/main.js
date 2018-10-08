@@ -6,7 +6,7 @@
 	var buttons = document.querySelectorAll('.button');
 
 	//var list = document.querySelector('.selection');
-	var resultsText = document.getElementById("poemText");
+	var resultsText = document.getElementById("poem-text");
 	
 
 	/*function fetchCardLists(){
@@ -59,6 +59,7 @@
 	function onCreateButtonClick(){
 
 		var person = chooseCard('peopleJobs');
+		var personTwo = chooseCard('peopleJobs');
 		var superHeroVillain = chooseCard('superheroesVillains');
 		var superHeroVillainTwo = chooseCard('superheroesVillains');
 		var colour = chooseCard('colours');
@@ -90,7 +91,7 @@
 
 		}else if(buttonName === 'combo3'){
 
-			poem = `a ${colour} ${animal} in ${accessory} is ${action}, while not too far away ${person} is ${actionDoneToThem} by ${superHeroVillain} carrying ${object}`;
+			poem = `a ${colour} ${animal} in ${accessory} is ${action} with ${personTwo}, while not too far away ${person} is ${actionDoneToThem} by ${superHeroVillain} carrying ${object}`;
 
 		}
 		console.log(poem);
